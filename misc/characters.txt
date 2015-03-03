@@ -1,0 +1,5 @@
+gamba,gamba.png,mug_gamba.png,
+yatekomo,yatekomo.png,mug_yatekomo.png,
+rosita,rosita.png,mug_rosita.png,
+chopsticks,chopsticks.png,mug_chopsticks.png,
+huevitas,huevitas.png,mug_huevitas.png,
